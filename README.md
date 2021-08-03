@@ -11,12 +11,12 @@
 [HackBio](https://thehackbio.com/) is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
 - Honed their skills in a specific bioinformatics method
 - Have at least a peer-reviewed article to show for the internship experience
-## GOALS
+### GOALS
 1. Expand the bioinformatics capabilities of African scientists
 2. Improve networking among young African scientists
 3. Accelerate bioinformatics discoveries in Africa
 4. Increase public understanding of biological science and its implications for our world
-## HOW IT WORKS
+### HOW IT WORKS
 - There are 5 rigorous and research intensive stages in the internship, Stages 0-4.
 - The internship is free of cost, no entry cost, exam or interview is required. Only your commitment is required
 - We expect that even a complete novice who is ready to learn-on-the-go should successfully complete the internship through active learning, collaboration and
@@ -46,7 +46,7 @@ network and build academic
 relationships all over Africa, who
 knows, your interaction can be the
 next big thing in the world.
-## ABOUT THE STAGES
+### ABOUT THE STAGES
 - STAGE 0: Pruning those that are
 complete novice and are not ready
 to learn-on-the-go. Simple tasks (3
@@ -74,7 +74,7 @@ through and enter stage 4)
 in their raw form, all codes, designs
 and final manuscript draft ready for
 submission.
-## ABOUT THE BIOSTACKS
+### ABOUT THE BIOSTACKS
 **“BIOSTACK”** is just our fancy word for
 areas of specialization and applications in
 bioinformatics. They include:
@@ -89,7 +89,7 @@ bioinformatics. They include:
 - publication image design
 - bioinformatics frontend/UI/UX
 
-## LIST OF COLLABORATION TOOLS
+### LIST OF COLLABORATION TOOLS
 - _**Slack**_
 - _GitHub_
 - _Google Account_
@@ -104,7 +104,7 @@ bioinformatics. They include:
 
 
 
-## USING OUR SLACK WORKSPACE
+### USING OUR SLACK WORKSPACE
 A 30 minutes onboarding call will be
 provided on how to use the workspace.
 However, if for anything, you forget the
@@ -126,7 +126,7 @@ threads). We are not responsible for
 any abuse or insult that may arise
 from any external platform
 
-## ABOUT OUR SLACK CHANNELS
+### ABOUT OUR SLACK CHANNELS
 - #hackbio-office: Company-wide
 announcements and work-based
 matters
