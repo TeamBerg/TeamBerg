@@ -1,7 +1,7 @@
 ![hackbio image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
-![hackbio ads](https://pbs.twimg.com/media/E5k_rKIWEAcaG_-.jpg)
-# [HackBio internship 2021](https://thehackbio.com/): Team Berg
 
+# [HackBio internship 2021](https://thehackbio.com/): Team Berg
+![hackbio ads](https://pbs.twimg.com/media/E5k_rKIWEAcaG_-.jpg)
 |s/n| Section/Outline | line no|
 |----|-------|-------|
 |1.|**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
