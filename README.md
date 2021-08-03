@@ -1,6 +1,12 @@
+![hackbio image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
+# [HackBio internship 2021](https://thehackbio.com/): Team Berg
 
-# [HackBio internship 2021](https://thehackbio.com/): 
-## TeamBerg
+|s/n| section | line no|
+|----|-------|-------|
+|1.|About the internship| 10|
+|2.|The Team| 20|
+|3.|Colaborators| 30|
+
 ## ABOUT THE INTERNSHIP
 [HackBio](https://thehackbio.com/) is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
 - Honed their skills in a specific bioinformatics method
@@ -138,7 +144,7 @@ leads you home (Inspired by Master
 KG's Skeleton Move; South Africa).
 You don't want to be here.
 
-###Contact
+### Contact
 - Email: [hackbio2020@gmail.com](hackbio2020@gmail.com)
 - Twitter: @tbi_internship
 - Slack: #hackbio-help
