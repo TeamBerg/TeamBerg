@@ -93,5 +93,52 @@ bioinformatics. They include:
 - Jupyter cloud
 - _**UNIX environment (Putty for windows)**_
 
->**Bold**: Must be installed locally on your PC
+>**Bold**: Must be installed locally on your PC  ||  
 >Green/_italicized_: No installation, just an account.
+
+
+
+## USING OUR SLACK WORKSPACE
+A 30 minutes onboarding call will be
+provided on how to use the workspace.
+However, if for anything, you forget the
+instructions, kindly refer to this guide:
+1. Use a simple but unique username
+on the workspace throughout the
+internship
+2. Do not abuse anyone in any form.
+Respect is the keyword here.
+3. Share only materials that you are
+sure have open access licenses
+4. Update your tag as soon as you are
+promoted to the next stage.
+5. We strongly discourage the use of
+any messenger platform apart from
+slack. Virtually all you need is available on slack (chat, private
+channel, storage, emojis, polls,
+threads). We are not responsible for
+any abuse or insult that may arise
+from any external platform
+
+## ABOUT OUR SLACK CHANNELS
+- #hackbio-office: Company-wide
+announcements and work-based
+matters
+- #introduction: Introduce yourself
+here, make new friends, naturally,
+do not abuse anyone. Keep it official
+- #random: Non-work banter and
+water cooler conversation
+- #resources: Inspire someone, help
+someone, share something
+- #journal-club: Use /pubmed and
+discuss recent articles in your field
+- #bode-thomas: The only road that
+leads you home (Inspired by Master
+KG's Skeleton Move; South Africa).
+You don't want to be here.
+
+###Contact
+- Email: [hackbio2020@gmail.com](hackbio2020@gmail.com)
+- Twitter: @tbi_internship
+- Slack: #hackbio-help
