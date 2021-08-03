@@ -5,13 +5,14 @@
 ![hackbio ads](https://pbs.twimg.com/media/E5k_rKIWEAcaG_-.jpg)
 |s/n| Section/Outline | line no|
 |----|-------|-------|
-- [x] |1.  |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
--[x] |2. |The Team| 20|
-[x] |3. |Colaborators| 30|
+ |1.  |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
+ |2. |The Team| 20|
+ |3. |Colaborators| 30|
 
 
 
-## ABOUT THE INTERNSHIP
+
+- [x] ## ABOUT THE INTERNSHIP
 ![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
 [HackBio](https://thehackbio.com/) is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
 - Honed their skills in a specific bioinformatics method
