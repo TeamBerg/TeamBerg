@@ -1,5 +1,6 @@
-# TeamBerg
-###HackBio internship 2021: 
+
+# HackBio internship 2021: 
+--## TeamBerg
 ## ABOUT THE INTERNSHIP
 HackBio is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
 - Honed their skills in a specific bioinformatics method
