@@ -10,3 +10,4 @@ HackBio is a virtually regimented research internship that is practice oriented 
 2. Improve networking among young African scientists
 3. Accelerate bioinformatics discoveries in Africa
 4. Increase public understanding of biological science and its implications for our world
+5. 
