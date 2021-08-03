@@ -1,9 +1,19 @@
 ![hackbio image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
 # [HackBio internship 2021](https://thehackbio.com/): Team Berg
 
-|s/n| section | line no|
+|s/n| Section/Outline | line no|
 |----|-------|-------|
-|1.|About the internship| 10|
+|1.|About the internship 
+- goals 
+- how it works
+- about the stages
+- about the biostacks
+- list of collaboration tools
+- using our slack workspace
+- about slack channels
+- contacts
+- 
+| 20|
 |2.|The Team| 20|
 |3.|Colaborators| 30|
 
