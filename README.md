@@ -4,9 +4,9 @@
 ![hackbio ads](https://pbs.twimg.com/media/E5k_rKIWEAcaG_-.jpg)
 |s/n| Section/Outline | line no|
 |----|-------|-------|
-|1.|**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
-|2.|The Team| 20|
-|3.|Colaborators| 30|
+|1. [x] |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
+|2. [ ] |The Team| 20|
+|3. [ ] |Colaborators| 30|
 
 ## ABOUT THE INTERNSHIP
 ![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
