@@ -8,6 +8,7 @@
 |3.|Colaborators| 30|
 
 ## ABOUT THE INTERNSHIP
+![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
 [HackBio](https://thehackbio.com/) is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
 - Honed their skills in a specific bioinformatics method
 - Have at least a peer-reviewed article to show for the internship experience
