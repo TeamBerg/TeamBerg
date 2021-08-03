@@ -41,16 +41,16 @@ relationships all over Africa, who
 knows, your interaction can be the
 next big thing in the world.
 ## ABOUT THE STAGES
--- STAGE 0: Pruning those that are
+- STAGE 0: Pruning those that are
 complete novice and are not ready
 to learn-on-the-go. Simple tasks (3
 days)
--- STAGE 1: Achieve digital
+- STAGE 1: Achieve digital
 collaboration with common tools
 among participants; anyone who is
 unable to collaborate will be
 eliminated (4 days)
--- STAGE 2*: Distribution of
+- STAGE 2*: Distribution of
 individuals into different biostacks,
 as it applies to the theme.
 Preliminary tasks on usage of
@@ -58,13 +58,13 @@ software, linux environment and
 basic language debugging. (1 week;
 60 persons scale through and enter
 stage 2)
--- STAGE 3*: Reshuffling of individuals
+- STAGE 3*: Reshuffling of individuals
 into 5 teams and assignment of the
 5 projects. All participants who get
 to this stage will receive a badge of
 honor. (1 week; 40 persons scale
 through and enter stage 4)
--- STAGE 4: Submission of all results
+- STAGE 4: Submission of all results
 in their raw form, all codes, designs
 and final manuscript draft ready for
 submission.
@@ -93,5 +93,5 @@ bioinformatics. They include:
 - Jupyter cloud
 - _**UNIX environment (Putty for windows)**_
 
-**Bold**: Must be installed locally on your PC
-Green/_italicized_: No installation, just an account.
+>**Bold**: Must be installed locally on your PC
+>Green/_italicized_: No installation, just an account.
