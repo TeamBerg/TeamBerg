@@ -3,17 +3,7 @@
 
 |s/n| Section/Outline | line no|
 |----|-------|-------|
-|1.|About the internship 
-- goals 
-- how it works
-- about the stages
-- about the biostacks
-- list of collaboration tools
-- using our slack workspace
-- about slack channels
-- contacts
-- 
-| 20|
+|1.|About the internship goals - how it works - about the stages - about the biostacks - list of collaboration tools - using our slack workspace - about slack channels - contacts| 20|
 |2.|The Team| 20|
 |3.|Colaborators| 30|
 
