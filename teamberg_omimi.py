@@ -15,4 +15,4 @@ def hamming_distance(slack_username, twitter_username):
 
 if __name__ == '__main__':
     task_output("barnabas oretan","barnabas.oretan@gmail.com","@omimi","genomics","@Oshola_omimi",
-    hamming_distance("@omimi", "@opipi"))
+    hamming_distance("@omimi", "@Oshola_omimi"))
