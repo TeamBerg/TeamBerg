@@ -1,10 +1,31 @@
-console.log("name", "Foluso Ogunfile");
-console.log("email", "fogunfile@gmail.com");
-console.log("slack", "@fogunfile");
-console.log("biostack", "Software Development");
+const details = {
+    name: "Foluso Ogunfile", 
+    email: "fogunfile@gmail.com",
+    slack_username: "@fogunfile",
+    twitter_handle: "@f_ogunfile",
+    biostack: "Software Development",
+}
+
+const hammingDistance = (str1, str2) => {
+    let count = 0;
+    if(str1.length === str2.length){
+        let i = 0;
+        while(i < str1.length){
+            if(str[i] != str2[i]){
+                count++;
+            }
+            i++;
+        }
+    } else {
+        count = -1;
+    }
+    return count;
+};
 
 const printDetails = () => {
-    return "Name: Foluso Ogunfile Email: fogunfile@gmail.com Slack: @fogunfile Biostack: Software Development";
+    ({slack_username, twitter_handle} = details);
+    details.hamming_distance = hammingDistance(slack_username, twitter_handle);
+    return JSON.stringify(details);
 }
 printDetails();
 
