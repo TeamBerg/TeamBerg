@@ -1,0 +1,156 @@
+# [HackBio internship 2021](https://thehackbio.com/): Team Berg
+![hackbio image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
+
+# [HackBio internship 2021](https://thehackbio.com/): Team Berg
+![hackbio ads](https://pbs.twimg.com/media/E5k_rKIWEAcaG_-.jpg)
+|s/n| Section/Outline | line no|
+|----|-------|-------|
+ |1.  |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 20|
+ |2. |The Team| 20|
+ |3. |Colaborators| 30|
+
+
+
+
+## ABOUT THE INTERNSHIP
+![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
+[HackBio](https://thehackbio.com/) is a virtually regimented research internship that is practice oriented and focused on equipping African scientists with advanced bioinformatics and computational biology skills. By the end of internship, successful interns should have:
+- Honed their skills in a specific bioinformatics method
+- Have at least a peer-reviewed article to show for the internship experience
+### GOALS
+1. Expand the bioinformatics capabilities of African scientists
+2. Improve networking among young African scientists
+3. Accelerate bioinformatics discoveries in Africa
+4. Increase public understanding of biological science and its implications for our world
+### HOW IT WORKS
+- There are 5 rigorous and research intensive stages in the internship, Stages 0-4.
+- The internship is free of cost, no entry cost, exam or interview is required. Only your commitment is required
+- We expect that even a complete novice who is ready to learn-on-the-go should successfully complete the internship through active learning, collaboration and
+networking.
+- The internship is completely virtual,
+no on-site presence is required.
+- Each intern is expected to pick one
+BIOSTACK while registering for the
+internship. It can be changed until
+stage 1 is completed.
+- Open sessions with mentors and
+sponsors on best practices and
+research/study opportunities will be
+provided from time to time
+- Eliminated candidates at each stage
+will be provided with some general
+information on what they can do to
+improve on themselves
+- Mentors are quite experienced in
+their fields and are to be respected
+when they give instructions. They
+are empowered to revoke your
+status as an intern if found wanton.
+- Finally, try as much as possible to
+be friendly to everyone, collaborate,
+network and build academic
+relationships all over Africa, who
+knows, your interaction can be the
+next big thing in the world.
+### ABOUT THE STAGES
+- STAGE 0: Pruning those that are
+complete novice and are not ready
+to learn-on-the-go. Simple tasks (3
+days)
+- STAGE 1: Achieve digital
+collaboration with common tools
+among participants; anyone who is
+unable to collaborate will be
+eliminated (4 days)
+- STAGE 2*: Distribution of
+individuals into different biostacks,
+as it applies to the theme.
+Preliminary tasks on usage of
+software, linux environment and
+basic language debugging. (1 week;
+60 persons scale through and enter
+stage 2)
+- STAGE 3*: Reshuffling of individuals
+into 5 teams and assignment of the
+5 projects. All participants who get
+to this stage will receive a badge of
+honor. (1 week; 40 persons scale
+through and enter stage 4)
+- STAGE 4: Submission of all results
+in their raw form, all codes, designs
+and final manuscript draft ready for
+submission.
+### ABOUT THE BIOSTACKS
+**“BIOSTACK”** is just our fancy word for
+areas of specialization and applications in
+bioinformatics. They include:
+- genomics
+- drug development
+- vaccine informatics
+- medicinal chemistry
+- cheminformatics
+- data analytics
+- software development
+- science communication
+- publication image design
+- bioinformatics frontend/UI/UX
+
+### LIST OF COLLABORATION TOOLS
+- _**Slack**_
+- _GitHub_
+- _Google Account_
+- Figma
+- _**R cloud**_
+- Cloud Computing resources
+- Jupyter cloud
+- _**UNIX environment (Putty for windows)**_
+
+>**Bold**: Must be installed locally on your PC  ||  
+>Green/_italicized_: No installation, just an account.
+
+
+
+### USING OUR SLACK WORKSPACE
+A 30 minutes onboarding call will be
+provided on how to use the workspace.
+However, if for anything, you forget the
+instructions, kindly refer to this guide:
+1. Use a simple but unique username
+on the workspace throughout the
+internship
+2. Do not abuse anyone in any form.
+Respect is the keyword here.
+3. Share only materials that you are
+sure have open access licenses
+4. Update your tag as soon as you are
+promoted to the next stage.
+5. We strongly discourage the use of
+any messenger platform apart from
+slack. Virtually all you need is available on slack (chat, private
+channel, storage, emojis, polls,
+threads). We are not responsible for
+any abuse or insult that may arise
+from any external platform
+
+### ABOUT OUR SLACK CHANNELS
+- #hackbio-office: Company-wide
+announcements and work-based
+matters
+- #introduction: Introduce yourself
+here, make new friends, naturally,
+do not abuse anyone. Keep it official
+- #random: Non-work banter and
+water cooler conversation
+- #resources: Inspire someone, help
+someone, share something
+- #journal-club: Use /pubmed and
+discuss recent articles in your field
+- #bode-thomas: The only road that
+leads you home (Inspired by Master
+KG's Skeleton Move; South Africa).
+You don't want to be here.
+
+### Contact
+- Email: [hackbio2020@gmail.com](hackbio2020@gmail.com)
+- Twitter: @tbi_internship
+- Slack: #hackbio-help
