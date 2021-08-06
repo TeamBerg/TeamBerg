@@ -180,8 +180,7 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 |1. |Barnabas Oretan| @omimi |genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
 |2. |Nirvana Munir| @Nirvana |Drug Development | python |![dp](https://avatars.githubusercontent.com/u/69080911?v=4)|
 |3. |Ridwan Shittu| @Rays |Data analytics | R |![dp](https://avatars.githubusercontent.com/u/33545469?v=4)|
-
-
+|4. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://avatars.githubusercontent.com/u/33545469?v=4)|
 
 
 
