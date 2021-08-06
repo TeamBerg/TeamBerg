@@ -36,9 +36,8 @@ do
  
         *".java")
             echo -n "found a java extension"
-            javac $file -o compiled_object
-            ./compiled_object >> teamBerg.csv
-            echo "" >> teamBerg.csv
+            javac $file
+            java TeamBergKelvin >>  teamBerg.csv
             echo ""
             echo -n "wrote the java content into TeamBerg.csv"
             ;;
