@@ -179,10 +179,11 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 |----|-------|-------------|-----------|----------------------|--------------|
 |1. |Barnabas Oretan| @omimi |Genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
 |2. |Nirvana Munir| @Nirvana |Drug Development |  Python |![dp](https://avatars.githubusercontent.com/u/69080911?v=4)|
-|3. |Ridwan Shittu| @Rays |Data analytics | R |![dp](https://avatars.githubusercontent.com/u/33545469?v=4)|
+|3. |Sobambo Adedotun| @AdunniEagle |Genomics | Python |![dp](https://ca.slack-edge.com/T025KDN24L8-U029LMBE0Q6-1ca96603f388-512)|
 |4. |Abdulkabir Ojulari| @abdulojus |Genomics | R |![dp](https://ca.slack-edge.com/T025KDN24L8-U029RRVH97F-364563db9c69-512)|
 |5. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://ca.slack-edge.com/T025KDN24L8-U02AGTTNDU0-g55569e66e0a-512)|
 |6. |Nikita Shukla|@Nikita2Chimera |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029QSJSQ82-g40a0f58411a-512)|
+|7. |Hammed AYANSOLA|@Hammed |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029R68CYP7-744095061ee9-512)|
 
 
 
