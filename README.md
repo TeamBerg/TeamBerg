@@ -5,9 +5,9 @@
 |s/n| Section/Outline | line no|
 |----|-------|-------|
  |1.  |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 12|
- |2. |The Team| 20|
- |3. |The Task| 35|
- |4. |Contributors| 40|
+ |2. |The Team|156|
+ |3. |The Task|159|
+ |4. |The Contributors| 172|
 
 ## ABOUT THE INTERNSHIP
 ![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
