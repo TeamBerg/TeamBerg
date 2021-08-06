@@ -16,5 +16,5 @@ def hamming_distance(slack_username, twitter_handle):
 slack_username = "@Nirvana"
 twitter_handle = "@Nervana"
 
-print(name, email, slack_username, biostack, twitter_handle, hamming_distance(slack_username, twitter_handle)) 
+print ("Name: "+name, "Email: "+email, "Slack Username: "+slack_username, "Biostack: "+biostack, "twitter_handle: "+twitter_handle, "hamming Distance: "+str(hamming_distance), sep = "\n")
 
