@@ -177,10 +177,11 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 
 |s/n| name | slack_username| biostack | programming language | profile_picture|
 |----|-------|-------------|-----------|----------------------|--------------|
-|1. |Barnabas Oretan| @omimi |genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
+|1. |Barnabas Oretan| @omimi |Genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
 |2. |Nirvana Munir| @Nirvana |Drug Development | python |![dp](https://avatars.githubusercontent.com/u/69080911?v=4)|
 |3. |Ridwan Shittu| @Rays |Data analytics | R |![dp](https://avatars.githubusercontent.com/u/33545469?v=4)|
-|4. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://avatars.githubusercontent.com/u/33545469?v=4)|
+|4. |Abdulkabir Ojulari| @abdulojus |Genomics | R |![dp](https://ca.slack-edge.com/T025KDN24L8-U029RRVH97F-364563db9c69-512)|
+|5. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://ca.slack-edge.com/T025KDN24L8-U02AGTTNDU0-g55569e66e0a-512)|
 
 
 
