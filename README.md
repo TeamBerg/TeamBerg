@@ -186,6 +186,8 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 |7. |Hammed AYANSOLA|@Hammed |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029R68CYP7-744095061ee9-512)|
 |8. |wusu deborah thona|@debby|drug developmen | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U02A63ELYGZ-g53d678f8606-512)|
 |9. |Kelvin Okoro|@Kelvin|Genomics | Java|![dp](https://ca.slack-edge.com/T025KDN24L8-U029JL9NNKY-g1f855ca8755-512)|
+|10.|Gopika|@Gopika|Drug Development | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029ZJ9V6G4-d4ff37f3caa2-512)|
+|11.|Itunu Bisayo ABODERIN|@Itunuikeolu|Public health and Genomic Epidemiology | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U02AGT2V22C-g19345dc7ede-512)|
 
 
 
