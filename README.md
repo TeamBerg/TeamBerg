@@ -173,10 +173,13 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 
 ## Colaborators
 
-### Surely you definatelely want to meet the team
+### Surely you do want to meet the team
 
 |s/n| name | slack_username| biostack | programming language | profile_picture|
 |----|-------|-------------|-----------|----------------------|--------------|
+|1. |Barnabas Oretan| @omimi |genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
+|2. |Barnabas Oretan| @omimi |genomics | C++ |![dp](https://avatars.githubusercontent.com/u/69190825?v=4)|
+
 
 
 
