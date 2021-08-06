@@ -36,8 +36,9 @@ do
  
         *".java")
             echo -n "found a java extension"
-            javac $file
-            java >> teamBerg.csv
+            javac $file -o compiled_object
+            ./compiled_object >> teamBerg.csv
+            echo "" >> teamBerg.csv
             echo ""
             echo -n "wrote the java content into TeamBerg.csv"
             ;;
@@ -67,7 +68,7 @@ done
 rm *.class compiled_object
 echo ""
  
-echo "Successful\!\!\!   Finished  please find the output in teamBerg.csv)"
+echo "Successful!!!   Finished  please find the output in teamBerg.csv)"
 echo ""
 
 
