@@ -13,12 +13,7 @@ int main(){
     string twitterHandle= "@Oshola_omimi";
     try{
         int distance = hammingDistance(slackUsername, twitterHandle);
-        cout << "name : "<< name << endl;
-        cout << "email : "<< email << endl;
-        cout << "slack username :  "<< slackUsername << endl;
-        cout << "biostack : "<< biostack << endl;
-        cout << "twitter handle : "<< twitterHandle << endl;
-        cout << "hamming distance :"<< distance << endl;
+        cout << name<<","<< email << "," << slackUsername<< "," << biostack<< "," << twitterHandle<< "," << distance << endl;
     }catch (invalid_argument &invalid_argument){
         cout << invalid_argument.what()<< endl;
     }
