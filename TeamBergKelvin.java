@@ -1,25 +1,27 @@
 public class TeamBergKelvin {
-    public static void main(String[] args) {
-        String name = "Kelvin Okoro";
-        String email= "okorokelvinemoakpo@yahoo.com";
-        String slackUsername = "@Kelvin";
-        String biostack = "Genomics";
-        String twitterHandle= "@Kel4kelvin";
-
-        System.out.println(name+" "+email+ " "+slackUsername+" "+twitterHandle+" " +biostack+" " + hammingDistance(slackUsername,twitterHandle));
-
+    public TeamBergKelvin() {
     }
 
-    private static int hammingDistance(String slackUsername, String twitterHandle)
-    {
-        int i = 0, count = 0;
-        while (i < slackUsername.length())
-        {
-            if (slackUsername.charAt(i) != twitterHandle.charAt(i))
-                count++;
-            i++;
+    public static void main(String[] var0) {
+        String var1 = "Kelvin Okoro";
+        String var2 = "okorokelvinemoakpo@yahoo.com";
+        String var3 = "@Kelvin";
+        String var4 = "Genomics";
+        String var5 = "@Kel4kelvin";
+        System.out.println(var1 + "," + var2 + "," + var3 + "," + var5 + "," + var4 + "," + hammingDistance(var3, var5));
+    }
+
+    private static int hammingDistance(String var0, String var1) {
+        int var2 = 0;
+
+        int var3;
+        for(var3 = 0; var2 < var0.length(); ++var2) {
+            if (var0.charAt(var2) != var1.charAt(var2)) {
+                ++var3;
+            }
         }
-        return count;
-    }
 
+        return var3;
+    }
 }
+
