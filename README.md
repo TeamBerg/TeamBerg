@@ -184,6 +184,7 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 |5. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://ca.slack-edge.com/T025KDN24L8-U02AGTTNDU0-g55569e66e0a-512)|
 |6. |Nikita Shukla|@Nikita2Chimera |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029QSJSQ82-g40a0f58411a-512)|
 |7. |Hammed AYANSOLA|@Hammed |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029R68CYP7-744095061ee9-512)|
+|8. |wusu deborah thona|@debby|drug developmen | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U02A63ELYGZ-g53d678f8606-512)|
 
 
 
