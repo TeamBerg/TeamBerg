@@ -25,7 +25,7 @@ const hammingDistance = (str1, str2) => {
 const printDetails = () => {
     ({slack_username, twitter_handle} = details);
     details.hamming_distance = hammingDistance(slack_username, twitter_handle);
-    return JSON.stringify(details);
+    return Object.values(details).join(", ");
 }
 printDetails();
 
