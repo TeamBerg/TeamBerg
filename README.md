@@ -179,7 +179,7 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 |2. |Nirvana Munir| @Nirvana |Drug Development |  Python |![dp](https://avatars.githubusercontent.com/u/69080911?v=4)|
 |3. |Sobambo Adedotun| @AdunniEagle |Genomics | Python |![dp](https://ca.slack-edge.com/T025KDN24L8-U029LMBE0Q6-1ca96603f388-512)|
 |4. |Abdulkabir Ojulari| @abdulojus |Genomics | R |![dp](https://ca.slack-edge.com/T025KDN24L8-U029RRVH97F-364563db9c69-512)|
-|5. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://ca.slack-edge.com/T025KDN24L8-U02AGTTNDU0-g55569e66e0a-512)|
+|5. |Foluso Ogunfile| @fogunfile |Software Development | Javascript|![dp](https://scontent.flos5-1.fna.fbcdn.net/v/t1.6435-9/58594649_2570745272954708_4228329753121128448_n.jpg?_nc_cat=106&ccb=1-4&_nc_sid=09cbfe&_nc_eui2=AeFes2yz9jDQQTUGkY2ieu0QEmoXqz0emH4SaherPR6Yftz9GYKAqszcEivYJfNSf2lskaiCIPn8EVNzenK70ACx&_nc_ohc=dcUUalqJcP4AX9p8qRm&tn=AWf6klAbGXSzduLQ&_nc_ht=scontent.flos5-1.fna&oh=dfcb36848a40c2c20c461f62ed6b1106&oe=6133E68B)|
 |6. |Nikita Shukla|@Nikita2Chimera |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029QSJSQ82-g40a0f58411a-512)|
 |7. |Hammed AYANSOLA|@Hammed |Genomics | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U029R68CYP7-744095061ee9-512)|
 |8. |wusu deborah thona|@debby|drug developmen | Python|![dp](https://ca.slack-edge.com/T025KDN24L8-U02A63ELYGZ-g53d678f8606-512)|

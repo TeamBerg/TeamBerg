@@ -2,8 +2,8 @@ const details = {
     name: "Foluso Ogunfile", 
     email: "fogunfile@gmail.com",
     slack_username: "@fogunfile",
-    twitter_handle: "@f_ogunfile",
     biostack: "Software Development",
+    twitter_handle: "@f_ogunfile",
 }
 
 const hammingDistance = (str1, str2) => {
