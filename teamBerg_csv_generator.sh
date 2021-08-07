@@ -51,7 +51,7 @@ do
             ;;
 
         *".js")
-             echo -n "found a js extension"
+            echo -n "found a js extension"
             node $file >> teamBerg.csv
             echo ""
             echo -n "wrote the js content into TeamBerg.csv"
@@ -63,7 +63,7 @@ do
     esac
 done
  
-
+echo " "
 rm *.class compiled_object
 echo ""
  
