@@ -1,11 +1,7 @@
 
 def task_result(name, email, slack_username, biostack, twitter_handle, hamming_distance):
-    print("name: "+ name )
-    print("email: "+ email)
-    print("slack_username: "+ slack_username )
-    print("biostack: "+ biostack )
-    print("twitter_handle: "+ twitter_handle )
-    print("hamming_distance: "+ hamming_distance)
+    print("name: "+ name +"\n" +"email: "+email + "\n" +"slack_username: " + slack_username + "\n" + "biostack: " + biostack + "\n" + "twitter_handle: " + twitter_handle + "\n" + "hamming_distance: " + hamming_distance )
+    
 
 
 
