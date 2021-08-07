@@ -1,6 +1,6 @@
 
 def task_result(name, email, slack_username, biostack, twitter_handle, hamming_distance):
-    print(name,  email,  slack_username,  biostack,  twitter_handle,  hamming_distance )
+    print(name + "," + email + "," + slack_username + "," + biostack + "," +  twitter_handle + "," +  hamming_distance )
     
 
 
