@@ -16,8 +16,8 @@ Hamming_distance <- function(a,b){
 
 #3. Print out the details for username:rays with Hamming distance calculated for the slack_username and twitter_handle
 details_rays <- list(name=name,email=email, slack_username=slack_username, biostack=biostack, twitter_handle=twitter_handle, Hamming_distance=Hamming_distance(slack_username, twitter_handle))
-# print(details_rays)
+
 
 write.table (details_rays,  sep = ",", row.names=FALSE)
-# write.table (details_rays,"details_rays.csv",  sep = ",", row.names=FALSE)
+
 
