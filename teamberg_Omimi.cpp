@@ -9,8 +9,8 @@ int main(){
     string name = "Barnabas Oretan";
     string email = "barnabas.oretan@gamil.com";
     string biostack= "genomics";
-    string slackUsername= "@omimi";
-    string twitterHandle= "@Oshola_omimi";
+    string slackUsername= "@omimiIII";
+    string twitterHandle= "@omimi_II";
     try{
         int distance = hammingDistance(slackUsername, twitterHandle);
         cout << name<<","<< email << "," << slackUsername<< "," << biostack<< "," << twitterHandle<< "," << distance << endl;
