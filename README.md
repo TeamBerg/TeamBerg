@@ -7,7 +7,8 @@
  |1.  |**About the internship goals** * _how it works_ * _about the stages_ * _about the biostacks_ * _list of collaboration tools_ * _using our slack workspace_ * _about our slack channels_ * _contacts_| 12|
  |2. |The Team|156|
  |3. |The Task|159|
- |4. |The Contributors| 172|
+ |4. |The DEpendencies|171|
+ |5. |The Contributors| 175|
 
 ## ABOUT THE INTERNSHIP
 ![hackbio image](https://thehackbio.com/assets3/images/5228730.jpeg)
@@ -170,7 +171,7 @@ Team Berg is a diverse group of individual with the sole aim to learn a skills i
 
 ## The Dependencies
 - **R** : (stringdist )
-- **Python** : ()
+
 
 ## Contributors
 
